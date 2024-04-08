@@ -1,0 +1,18 @@
+Name,"Agriculture, forestry, fishing, and hunting",Mining,Utilities,Construction,Manufacturing,Wholesale trade,Retail trade,Transportation and warehousing,Information,"Finance, insurance, real estate, rental, and leasing",Professional and business services,"Educational services, health care, and social assistance","Arts, entertainment, recreation, accommodation, and food services","Other services, except government",Government,Total Commodity Output,Imports
+"Agriculture, forestry, fishing, and hunting",641691,0,0,0,0,95,274,143,0,0,0,0,0,0,5663,649153,82128
+Mining,0,74119,14,0,746,0,0,0,0,0,335,0,0,0,836,742176,228268
+Utilities,0,0,647971,0,0,0,0,227,0,0,0,0,0,0,1994,84723,458
+Construction,84,18357,2783,2131476,11513,967,6437,59,2222,27132,2171,2895,3276,526,23622,2243447,0
+Manufacturing,12,69319,0,0,682885,1534,16312,0,2613,0,1926,0,0,0,1598,6931162,264917
+Wholesale trade,0,2419,1987,0,71611,2358915,0,0,756,0,154,0,44,581,0,2443219,0
+Retail trade,0,0,1233,0,0,0,2224492,12,7777,431,6176,1234,811,6477,1624,228154,0
+Transportation and warehousing,0,0,4682,0,0,135,0,174397,0,1582,686,0,0,0,56413,188637,136811
+Information,0,0,0,0,0,0,865,0,188817,0,123846,0,168,88,5453,211956,21378
+"Finance, insurance, real estate, rental, and leasing",0,0,0,0,12,13879,6555,1772,9579,8213933,1728,197,572,2152,13139,8386548,7923
+Professional and business services,0,723,1598,463,242844,9937,13473,21844,494792,2265,5192255,664,9777,2423,173842,624484,167347
+"Educational services, health care, and social assistance",0,0,0,0,0,0,134,142,656,4,796,326589,4917,9,43719,378854,11765
+"Arts, entertainment, recreation, accommodation, and food services",2212,0,0,0,0,0,47964,147,28,74,0,38228,17953,355,93658,198395,1973
+"Other services, except government",0,0,0,0,465,zz,87551,1415,931,1653,7715,18,5225,855118,477,1591,3524
+Government,0,0,538,0,0,0,0,0,0,0,0,0,0,0,3774561,3779599,312
+"Scrap, used and secondhand goods",0,0,0,0,636,0,0,0,0,0,124,0,11,0,521,12596,24294
+Noncomparable imports and rest-of-the-world adjustment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5476,5476,29356
